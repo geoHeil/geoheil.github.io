@@ -12,23 +12,8 @@
   </url>
   
   <url>
-    <loc>https://geoheil.github.io/post/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geoheil.github.io/post/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geoheil.github.io/post/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://geoheil.github.io/post/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://geoheil.github.io/post/01-beginning/</loc>
+    <lastmod>2016-08-26T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
