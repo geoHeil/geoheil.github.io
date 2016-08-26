@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Type theme</title>
-    <link>https://geoheil.github.io/about/</link>
+    <link>https://geoheil.github.io/geoheil/about/</link>
     <description>Recent content in Abouts on Type theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geoheil.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geoheil.github.io/geoheil/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://geoheil.github.io/about/</link>
+      <link>https://geoheil.github.io/geoheil/about/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://geoheil.github.io/about/</guid>
+      <guid>https://geoheil.github.io/geoheil/about/</guid>
       <description>
 
 &lt;h3 id=&#34;lorem-ipsum&#34;&gt;Lorem ipsum&lt;/h3&gt;
