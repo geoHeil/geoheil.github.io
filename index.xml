@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Georg</title>
+    <title>geoHeil</title>
     <link>https://geoheil.github.io/</link>
-    <description>Recent content on Georg</description>
+    <description>Recent content on geoHeil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://geoheil.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://geoheil.github.io/about/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geoheil.github.io/about/</guid>
+      <description>
+
+&lt;h3 id=&#34;lorem-ipsum&#34;&gt;Lorem ipsum&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae quisquam iste tempore libero illum maxime voluptates incidunt! Eius odio voluptatem totam ipsam, consectetur corrupti cupiditate veritatis quae minus eum rem excepturi, dolore vel recusandae assumenda tempora. Quas, ut necessitatibus impedit.&lt;/p&gt;
+
+&lt;h3 id=&#34;dolor-faubicus&#34;&gt;Dolor faubicus&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius cum sit dolores. Pariatur at incidunt nobis ratione unde deleniti similique explicabo quae, repudiandae velit consequatur optio expedita natus, ullam vel.&lt;/p&gt;
+
+&lt;p&gt;- Georg Heiler&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>
@@ -616,26 +636,6 @@ Having nearly instant feedback enables you to have your creativity flow without 
 &lt;h2 id=&#34;step-4-have-fun&#34;&gt;Step 4. Have fun&lt;/h2&gt;
 
 &lt;p&gt;The best way to learn something is to play with it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://geoheil.github.io/about/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://geoheil.github.io/about/</guid>
-      <description>
-
-&lt;h3 id=&#34;lorem-ipsum&#34;&gt;Lorem ipsum&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae quisquam iste tempore libero illum maxime voluptates incidunt! Eius odio voluptatem totam ipsam, consectetur corrupti cupiditate veritatis quae minus eum rem excepturi, dolore vel recusandae assumenda tempora. Quas, ut necessitatibus impedit.&lt;/p&gt;
-
-&lt;h3 id=&#34;dolor-faubicus&#34;&gt;Dolor faubicus&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius cum sit dolores. Pariatur at incidunt nobis ratione unde deleniti similique explicabo quae, repudiandae velit consequatur optio expedita natus, ullam vel.&lt;/p&gt;
-
-&lt;p&gt;- Your name&lt;/p&gt;
 </description>
     </item>
     
